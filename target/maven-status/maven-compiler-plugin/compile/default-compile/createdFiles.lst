@@ -1,0 +1,10 @@
+cloud\business\GestionDatos.class
+cloud\services\UsuarioServices.class
+cloud\model\Usuario.class
+cloud\dao\UsuarioDAO.class
+cloud\business\GestionUsuarioRemoto.class
+cloud\services\CORSFilter.class
+cloud\business\GestionUsuario.class
+cloud\services\ErrorMessage.class
+cloud\business\GestionUsuarioLocal.class
+cloud\services\PathBase.class
